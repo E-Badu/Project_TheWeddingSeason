@@ -1,6 +1,5 @@
 body {
-font-family: 'Lato', sans-serif;
-
+	font-family: 'Lato', sans-serif;
 }
 
 .nav-tabs {
@@ -35,21 +34,30 @@ margin-bottom: 35px;
 	text-shadow: 0 0 .1em, 0 0 .3em;
 }
 
+.photoHorizontalRule {
+	width: 300px;
+	margin-bottom: 50px;
+	border: 1px solid #7f5b60;;
+}
+
 .weddingPhotos {
 	margin-bottom: 160px;
 	overflow: hidden;
-	height: 450px;
-		text-align: center;
+	height: 550px;
+	text-align: center;
 	font-size: 16px;
 	font-weight: bold;
 
+}
+
+.weddingPhotos p, .weddingVideo p {
+	margin-bottom: 50px;
 }
 
 .weddingPhotos h1, .weddingVideo h1, .location h1 {
 	text-align: center;
 	color: #7f5b60;
 	text-shadow: 0 0 .1em, 0 0 .3em;
-	margin-bottom: 50px;
 }
 
 .weddingPhotoGroup {
@@ -58,10 +66,9 @@ margin-bottom: 35px;
 }
 
 .weddingVideo {
-background-color: #f1f1f1 ;
-padding-top: 70px;
-padding-bottom: 25px;
-height: 650px;
+	background-color: #f1f1f1;
+	padding-top: 70px;
+	height: 750px;
 	text-align: center;
 	font-size: 16px;
 	font-weight: bold;
@@ -72,7 +79,7 @@ height: 650px;
 }
 
 .location {
-	padding-top: 70px;
+	margin-top: 80px;
 	height: 800px;
 	text-align: center;
 	font-size: 16px;
