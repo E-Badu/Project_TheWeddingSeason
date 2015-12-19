@@ -2,6 +2,12 @@
 	float: right;
 }
 
+nav {
+background-color: #ffffff;
+margin-bottom: 35px;
+
+}
+
 .jumbotron {
 	height:650px;
 	background-image: url("../images/weddingfloral.jpg");
@@ -49,6 +55,7 @@
 .weddingVideo {
 background-color: #f1f1f1 ;
 padding-top: 70px;
+padding-bottom: 25px;
 height: 650px;
 	text-align: center;
 	font-size: 16px;
@@ -65,16 +72,22 @@ height: 650px;
 	text-align: center;
 	font-size: 16px;
 	font-weight: bold;
-	padding-bottom: 30px;
+	margin-bottom: 50px;
 }
 
+
 .weddingFooter {
-background-color: #f1f1f1 ;
-padding-top: 70px;
-height: 150px;
+	background-color: #f1f1f1 ;
+	padding-top: 70px;
+	height: 130px;
 }
+
 
 .socialMediaIcons {
 	font-size: 40px;
+}
 
+
+.footerGroup .nav-tabs {
+ 	float: left;
 }
