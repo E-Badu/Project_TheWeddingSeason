@@ -31,7 +31,7 @@
 
 }
 
-.weddingPhotos h1 {
+.weddingPhotos h1, .weddingVideo h1, .location h1 {
 	text-align: center;
 	color: #7f5b60;
 	text-shadow: 0 0 .1em, 0 0 .3em;
@@ -49,15 +49,13 @@ padding-top: 70px;
 height: 650px;
 }
 
-.weddingVideo h1 {
-	text-align: center;
-	color: #7f5b60;
-	text-shadow: 0 0 .1em, 0 0 .3em;
-	margin-bottom: 60px;
-}
-
 .weddingVideoGroup {
-
 	text-align: center;
-
 }
+
+.location {
+	padding-top: 70px;
+	height: 650px;
+	text-align: center;
+}
+
