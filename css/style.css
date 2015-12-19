@@ -38,7 +38,7 @@
 	margin-bottom: 60px;
 }
 
-.weddingGroup {
+.weddingPhotoGroup {
 	margin: 0 auto;
 	width: 100%;
 }
@@ -50,10 +50,14 @@ height: 650px;
 }
 
 .weddingVideo h1 {
-
 	text-align: center;
 	color: #7f5b60;
 	text-shadow: 0 0 .1em, 0 0 .3em;
 	margin-bottom: 60px;
 }
 
+.weddingVideoGroup {
+
+	text-align: center;
+
+}
