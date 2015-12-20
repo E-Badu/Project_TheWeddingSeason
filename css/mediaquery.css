@@ -1,0 +1,9 @@
+/*media query for phone*/
+
+@media (min-width: 820px) {
+	.weddingVideoGroup {
+		max-height: 260px;
+		max-width: 640px;
+	}
+
+}
