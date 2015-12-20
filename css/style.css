@@ -98,8 +98,7 @@ nav {
 
 .weddingFooter {
 	background-color: #F8F8F8 ;
-	padding-top: 70px;
-	height: 130px;
+	margin-top: 70px;
 	border: 1px solid #d8d8d8;
 }
 
@@ -108,7 +107,8 @@ nav {
 	font-size: 40px;
 }
 
-
-.footerGroup .nav-tabs {
-	float: left;
+footer p {
+margin-left: 15%;
 }
+
+
